@@ -23,7 +23,7 @@ This dashboard illustrates how data visualization can transform raw sales data i
 ![Dashboard Overview](https://github.com/msahid-cse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/blob/main/Screenshot%202025-09-30%20031952.png)  
 
 ### Live Dashboard
-![Live view](https://app.powerbi.com/links/VX44M2azu-?ctid=d64fc2a1-e3c6-4a8a-8d65-4366182c78f6&pbi_source=linkShare&bookmarkGuid=14a520d1-9e70-498d-a49f-108e31d49f4c)  
+🌐[Live view](https://app.powerbi.com/links/VX44M2azu-?ctid=d64fc2a1-e3c6-4a8a-8d65-4366182c78f6&pbi_source=linkShare&bookmarkGuid=14a520d1-9e70-498d-a49f-108e31d49f4c)  
 
 
 ---
